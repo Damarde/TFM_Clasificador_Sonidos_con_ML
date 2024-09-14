@@ -5,14 +5,13 @@ El objetivo principal del TFM es la prueba y desarrollo de un motor para la dete
 
 ## Contenido del repositorio.
 
-* /Notebook_memoria: Contiene los notebooks que sirven de guia y acompañamiento para la memoria. En este podemos encontrar varios notebooks que siguen el siguiente orden:
+/Notebook_memoria: Contiene los notebooks que sirven de guia y acompañamiento para la memoria. En este podemos encontrar varios notebooks que siguen el siguiente orden:
 1. Capitulo2_Metodologia.ipynb - Todas las funciones para los cálculos de caracteristicas y procesamiento de señal.
 2. Capitulo2a_Unsupervised_Learning.ipynb - Este documento contiene los procesos seguidos para probar y validar las redes no supervisadas.
 3. /Arquitecturas_CNN - Esta carpeta contiene las diferentes arquitecturas de redes neuronales probadas en 2 fases enumeradas, así como los datasets utilizados.
 4. Capitulo3c_Validacion_CNNs.ipynb - Este notebook contiene las pruebas hechas para validar las redes neuronales.
 
-
-* /data: Datasets útiles para los notebooks, especialmente para el primero.
+/data: Datasets útiles para los notebooks, especialmente para el primero.
 
 
 ## Requisitos.

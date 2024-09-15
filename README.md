@@ -18,4 +18,4 @@ El objetivo principal del TFM es la prueba y desarrollo de un motor para la dete
 Para ejecutar los scripts y replicar los resultados es necesario tener instalados los siguientes paquetes:
 
 * Python 3.10 o superior.
-* Bibioltecas: pandas, numpy, matplotlib, librosa, sklearn, tensorflow y keras
+* Bibliotecas: pandas, numpy, matplotlib, librosa, sklearn, tensorflow y keras
